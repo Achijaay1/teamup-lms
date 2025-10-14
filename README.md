@@ -1,3 +1,4 @@
+HEAD
 # teamup-lms
 Exploring GitHub project management -----from issues to done 
 # Achine GitHub Projects Demo
@@ -61,3 +62,5 @@ git commit -m "fix: improve login validation (#1)"
 
 # Push to GitHub
 git push origin fix/login-validation-#1
+# learn-git
+e95484b (Initial commit)
