@@ -82,6 +82,7 @@ I look forward to  your contribution! Follow these steps to get started:
    ```bash
    git clone https://github.com/<your-username>/learn-git.git
 b911ef2 (docs: add contributing guide)
+
 # TeamUp LMS Project
 
 This project is a learning management system (LMS) that helps teams manage online courses effectively.
@@ -92,3 +93,14 @@ Follow these steps to contribute:
 2. Create a feature branch
 3. Submit a pull request
 
+# learn-git
+## Intern Contribution Guide
+1. Fork this repository.
+2. Create a new branch for your updates.
+3. Make changes and write clear commit messages.
+4. Push your branch and open a Merge Request (MR).
+5. Request a review and respond professionally.
+
+### Contributors
+- Etim Antai
+9ea9c09 (docs: add intern contribution guide and update contributors)
