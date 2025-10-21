@@ -80,7 +80,9 @@ I look forward to  your contribution! Follow these steps to get started:
 1. Fork this repository to your GitHub account.
 2. Clone your fork locally:
    ```bash
+
    git clone https://github.com/<your-username>/learn-git.git
+ HEAD
 b911ef2 (docs: add contributing guide)
 
 # TeamUp LMS Project
@@ -96,6 +98,12 @@ Follow these steps to contribute:
 # learn-git
 
 143e454 (docs: revise guide and include contributor info)
+
+   
+## Contributor
+Lilian Obi (@Lilianobi)
+
+9ef4af4 (Update README.md)
 ## Intern Contribution Guide
 
  HEAD
@@ -124,7 +132,7 @@ git commit -m "docs: update intern contribution guide"
 git push origin docs/update-readme
 
 # 6. Open a Pull Request (PR)
-Go to your forked repo on GitHub and click “Compare & pull request.”
+Go to your forked repo on GitHub and click “Compare \& pull request.”
 
 Add a clear title and description for your PR.
 
@@ -140,3 +148,22 @@ A collaborative learning management system for teams.
 
 ## Contributing
 Follow our contributing guide in `CONTRIBUTING.md`.
+
+
+
+\# TeamUp LMS
+
+
+
+\## Overview
+
+(Keep or merge useful content here)
+
+
+
+\## Contributing Guide
+
+(Add or retain your new contributing guide section)
+
+
+
