@@ -141,6 +141,7 @@ Request a review and respond professionally.
 
 # Contributors
 Etim Antai (@Etim-Antai)
+
  
 HEAD
 143e454 (docs: revise guide and include contributor info)
@@ -169,15 +170,17 @@ Follow our contributing guide in `CONTRIBUTING.md`.
 (Add or retain your new contributing guide section)
 
 
-
-
+ 9a90d85 (Resolved merge conflict in README.md)
 Tobechukwu Emelife (@tobekami)
  HEAD
  fd178ba (docs: added name to intern contributors list)
 
 
 simulation: "My change from feature/conflict-resolution-practice branch"
+ HEAD
  63b493d (Add my change to README.md)
 
 simulation: "Teammate's change from main branch"
  6f6292e (Add teammate change)
+simulation: "Teammate's change from main branch"
+ 9a90d85 (Resolved merge conflict in README.md)
