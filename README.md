@@ -178,3 +178,6 @@ Tobechukwu Emelife (@tobekami)
 
 simulation: "My change from feature/conflict-resolution-practice branch"
  63b493d (Add my change to README.md)
+
+simulation: "Teammate's change from main branch"
+ 6f6292e (Add teammate change)
