@@ -82,7 +82,8 @@ I look forward to  your contribution! Follow these steps to get started:
    ```bash
 
    git clone https://github.com/<your-username>/learn-git.git
- HEAD
+ 
+HEAD
 b911ef2 (docs: add contributing guide)
 
 # TeamUp LMS Project
@@ -140,6 +141,8 @@ Request a review and respond professionally.
 
 # Contributors
 Etim Antai (@Etim-Antai)
+ 
+HEAD
 143e454 (docs: revise guide and include contributor info)
 
 # TeamUp LMS
@@ -167,3 +170,6 @@ Follow our contributing guide in `CONTRIBUTING.md`.
 
 
 
+
+Tobechukwu Emelife (@tobekami)
+ fd178ba (docs: added name to intern contributors list)
