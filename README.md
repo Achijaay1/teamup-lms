@@ -172,4 +172,9 @@ Follow our contributing guide in `CONTRIBUTING.md`.
 
 
 Tobechukwu Emelife (@tobekami)
+ HEAD
  fd178ba (docs: added name to intern contributors list)
+
+
+simulation: "My change from feature/conflict-resolution-practice branch"
+ 63b493d (Add my change to README.md)
