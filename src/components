@@ -1,0 +1,10 @@
+function validateForm(email, password) {
+  if (!email || !password) {
+    return "All fields are required.";
+  }
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  if (!emailRegex.test(email)) {
+    return "Please enter a valid email address.";
+  }
+  return null;
+}
