@@ -73,6 +73,8 @@ git commit -m "fix: improve login validation (#1)"
 git push origin fix/login-validation-#1
 # learn-git
 e95484b (Initial commit)
+ HEAD
+ 246edb0 (Initial commit)
 # learn-git
 My Guide
 I look forward to  your contribution! Follow these steps to get started:
@@ -181,6 +183,11 @@ simulation: "My change from feature/conflict-resolution-practice branch"
  63b493d (Add my change to README.md)
 
 simulation: "Teammate's change from main branch"
+ HEAD
  6f6292e (Add teammate change)
 simulation: "Teammate's change from main branch"
  9a90d85 (Resolved merge conflict in README.md)
+# teamup-lms
+Exploring GitHub project management -----from issues to done 
+89c3dde (Initial commit)
+246edb0 (Initial commit)
